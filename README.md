@@ -26,3 +26,6 @@
 
 3. Para tornar sua lib publica no npm rode o comando `npm publish --access public` indicando que sua lib será publica.
 
+## Next step
+
+Adicionando o storybook no projeto: [angular storybook get started ](https://storybook.js.org/tutorials/intro-to-storybook/angular/pt/get-started/)
